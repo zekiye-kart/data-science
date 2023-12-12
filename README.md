@@ -13,3 +13,4 @@
 ## 3- studies
 
 - [Iris Data](3-iris-data.ipynb)
+- [Dataviz](3-dataviz.ipynb)

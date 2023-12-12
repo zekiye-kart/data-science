@@ -9,3 +9,7 @@
 
 - [Python Class](2-python-classes.ipynb)
 - [Numpy](2-numpy.ipynb)
+
+## 3- studies
+
+- [Iris Data](3-iris-data.ipynb)
